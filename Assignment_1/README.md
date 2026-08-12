@@ -38,6 +38,7 @@ The notebook reports:
 
 ```text
 ├── Assignment_1.ipynb
+├── ILLM-Lab1-Assignment.pdf
 └── README.md
 ```
 
