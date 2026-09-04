@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements and evaluates N-Gram Language Models for Gujarati text using the **AI4Bharat IndicCorpV2** corpus.
+This assignment implements and evaluates N-Gram Language Models for Gujarati text using the **AI4Bharat IndicCorpV2** corpus.
 
 The objective is to compare different N-Gram orders and smoothing techniques using **Perplexity** as the evaluation metric.
 
